@@ -42,6 +42,9 @@ sites:
   - name: "OmniBridge"
     url: https://omni.gnosischain.com/bridge
 
+  - name: "Beacon Checkpoint Sync"
+    url: https://checkpoint.gnosischain.com/
+
   - name: "GBC Nodewatch"
     url: https://nodewatch.gnosischain.com/
 
