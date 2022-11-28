@@ -58,6 +58,7 @@ status-website:
   introMessage: Check the availability for GnosisChain services
   cname: status.gnosischain.com
   theme: light
+  robotsText: "User-agent: * \n Disallow: /"
   workflowSchedule:
     graphs: "0 0 * * *"
     responseTime: "0 23 * * *"
