@@ -1,7 +1,6 @@
 # Change these first
 owner: gnosischain
 repo: gnosischain-uptime
-
 sites:
   - name: "RPC"
     method: POST
@@ -14,59 +13,36 @@ sites:
         "id":1,
         "jsonrpc":"2.0"
       }
-    
   - name: "Beacon RPC"
     url: https://rpc-gbc.gnosischain.com/eth/v1/beacon/headers
-
   - name: "Gnosisscan"
     url: https://gnosisscan.io/
-
   - name: "Blockscout Explorer"
     url: https://blockscout.com/xdai/mainnet
-
   - name: "Beacon Explorer"
     url: https://beacon.gnosischain.com/
-
   - name: "Ethstats"
     url: https://ethstats.gnosischain.com/
-  
   - name: "Optimism on GnosisChain"
     url: https://optimism.gnosischain.com/
-
   - name: "Faucet"
     url: https://gnosisfaucet.com/
-
   - name: "xDaiBridge"
     url: https://bridge.gnosischain.com/
-
   - name: "OmniBridge"
     url: https://omni.gnosischain.com/bridge
-
   - name: "Beacon Checkpoint Sync"
     url: https://checkpoint.gnosischain.com/
-
   - name: "GBC Nodewatch"
     url: https://nodewatch.gnosischain.com/
-
   - name: "ETH2 Nodewatch"
     url: https://nodewatch-mainnet.gnosischain.com/
-
-
 status-website:
   name: GnosisChain
   introTitle: "**GnosisChain** the Community-Run Chain"
   introMessage: Check the availability for GnosisChain services
   cname: status.gnosischain.com
   theme: light
-  robotsText: "User-agent: * \n Disallow: /"
-  workflowSchedule:
-    graphs: "0 0 * * *"
-    responseTime: "0 23 * * *"
-    staticSite: "0 1 * * *"
-    summary: "0 0 * * *"
-    updateTemplate: "0 0 * * *"
-    updates: "0 3 * * *"
-    uptime: "*/5 * * * *"
 
 
 
