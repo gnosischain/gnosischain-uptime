@@ -1,7 +1,7 @@
 url: https://beacon.gnosischain.com/
-status: down
-code: 503
-responseTime: 535
-lastUpdated: 2022-12-06T10:29:58.922Z
+status: up
+code: 200
+responseTime: 730
+lastUpdated: 2022-12-06T10:39:00.863Z
 startTime: Wed Nov 23 2022 12:17:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
