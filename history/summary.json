@@ -244,9 +244,9 @@
     "url": "https://nodewatch.gnosischain.com/",
     "icon": "https://icons.duckduckgo.com/ip3/nodewatch.gnosischain.com.ico",
     "slug": "gbc-nodewatch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.53%",
+    "uptimeDay": "99.52%",
     "uptimeWeek": "99.93%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
@@ -265,18 +265,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nodewatch-mainnet.gnosischain.com.ico",
     "slug": "eth-2-nodewatch",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 167,
     "timeDay": 158,
     "timeWeek": 134,
     "timeMonth": 154,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2023-01-11": 7
+      "2023-01-11": 13
     }
   }
 ]
