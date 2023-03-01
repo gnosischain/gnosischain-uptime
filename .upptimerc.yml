@@ -23,8 +23,6 @@ sites:
     url: https://beacon.gnosischain.com/
   - name: "Ethstats"
     url: https://ethstats.gnosischain.com/
-  - name: "Optimism on GnosisChain"
-    url: https://optimism.gnosischain.com/
   - name: "Faucet"
     url: https://gnosisfaucet.com/
   - name: "xDaiBridge"
@@ -33,10 +31,6 @@ sites:
     url: https://omni.gnosischain.com/bridge
   - name: "Beacon Checkpoint Sync"
     url: https://checkpoint.gnosischain.com/
-  - name: "GBC Nodewatch"
-    url: https://nodewatch.gnosischain.com/
-  - name: "ETH2 Nodewatch"
-    url: https://nodewatch-mainnet.gnosischain.com/
 status-website:
   name: GnosisChain
   introTitle: "**GnosisChain** the Community-Run Chain"
