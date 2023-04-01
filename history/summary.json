@@ -28,17 +28,17 @@
     "url": "https://rpc-gbc.gnosischain.com/eth/v1/beacon/headers",
     "icon": "https://icons.duckduckgo.com/ip3/rpc-gbc.gnosischain.com.ico",
     "slug": "beacon-rpc",
-    "status": "up",
+    "status": "down",
     "uptime": "98.70%",
-    "uptimeDay": "99.54%",
+    "uptimeDay": "99.53%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.70%",
-    "time": 308,
-    "timeDay": 278,
-    "timeWeek": 270,
-    "timeMonth": 264,
-    "timeYear": 308,
+    "time": 307,
+    "timeDay": 252,
+    "timeWeek": 262,
+    "timeMonth": 261,
+    "timeYear": 307,
     "dailyMinutesDown": {
       "2023-04-01": 7,
       "2023-03-28": 16,
@@ -62,7 +62,7 @@
     "time": 315,
     "timeDay": 284,
     "timeWeek": 296,
-    "timeMonth": 263,
+    "timeMonth": 257,
     "timeYear": 315,
     "dailyMinutesDown": {}
   },
@@ -80,7 +80,7 @@
     "time": 653,
     "timeDay": 572,
     "timeWeek": 1010,
-    "timeMonth": 680,
+    "timeMonth": 668,
     "timeYear": 653,
     "dailyMinutesDown": {
       "2023-03-31": 9,
@@ -112,7 +112,7 @@
     "time": 502,
     "timeDay": 508,
     "timeWeek": 557,
-    "timeMonth": 563,
+    "timeMonth": 564,
     "timeYear": 502,
     "dailyMinutesDown": {
       "2023-02-20": 56,
@@ -139,7 +139,7 @@
     "time": 362,
     "timeDay": 238,
     "timeWeek": 346,
-    "timeMonth": 357,
+    "timeMonth": 358,
     "timeYear": 362,
     "dailyMinutesDown": {
       "2022-12-08": 16
@@ -182,7 +182,7 @@
     "time": 369,
     "timeDay": 426,
     "timeWeek": 432,
-    "timeMonth": 401,
+    "timeMonth": 402,
     "timeYear": 369,
     "dailyMinutesDown": {
       "2023-01-09": 17
@@ -194,11 +194,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/omni.gnosischain.com.ico",
     "slug": "omni-bridge",
     "status": "up",
-    "uptime": "94.25%",
+    "uptime": "94.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.93%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "94.25%",
+    "uptimeYear": "94.26%",
     "time": 1006,
     "timeDay": 1003,
     "timeWeek": 1082,
@@ -232,7 +232,7 @@
     "time": 315,
     "timeDay": 225,
     "timeWeek": 275,
-    "timeMonth": 295,
+    "timeMonth": 284,
     "timeYear": 315,
     "dailyMinutesDown": {}
   }
