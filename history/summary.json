@@ -77,9 +77,9 @@
     "url": "https://gnosisscan.io/",
     "icon": "https://icons.duckduckgo.com/ip3/gnosisscan.io.ico",
     "slug": "gnosisscan",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -88,7 +88,9 @@
     "timeWeek": 274,
     "timeMonth": 295,
     "timeYear": 306,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-29": 0
+    }
   },
   {
     "name": "Blockscout Explorer",
