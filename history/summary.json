@@ -77,19 +77,19 @@
     "url": "https://gnosisscan.io/",
     "icon": "https://icons.duckduckgo.com/ip3/gnosisscan.io.ico",
     "slug": "gnosisscan",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 306,
-    "timeDay": 335,
-    "timeWeek": 274,
+    "timeDay": 317,
+    "timeWeek": 277,
     "timeMonth": 295,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2023-05-29": 0
+      "2023-05-29": 7
     }
   },
   {
