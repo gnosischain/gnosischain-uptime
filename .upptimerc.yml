@@ -13,6 +13,17 @@ sites:
         "id":1,
         "jsonrpc":"2.0"
       }
+  - name: "GatewayFM Public RPC"
+    method: POST
+    url: https://rpc.gnosis.gateway.fm/
+    headers: ["Content-Type: application/json"]
+    body: |
+      {
+        "method": "eth_blockNumber",
+        "params":[],
+        "id":1,
+        "jsonrpc":"2.0"
+      } 
   - name: "Beacon RPC"
     url: https://rpc-gbc.gnosischain.com/eth/v1/beacon/headers
   - name: "Gnosisscan"
@@ -25,6 +36,8 @@ sites:
     url: https://ethstats.gnosischain.com/
   - name: "Faucet"
     url: https://gnosisfaucet.com/
+  - name: "Bridge Explorer"
+    url: https://bridge-explorer.gnosischain.com/
   - name: "xDaiBridge"
     url: https://bridge.gnosischain.com/
   - name: "OmniBridge"
