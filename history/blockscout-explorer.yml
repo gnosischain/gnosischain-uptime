@@ -1,7 +1,7 @@
 url: https://blockscout.com/xdai/mainnet
-status: up
-code: 200
-responseTime: 297
-lastUpdated: 2023-06-13T23:10:16.862Z
+status: down
+code: 503
+responseTime: 20172
+lastUpdated: 2023-06-14T20:28:59.706Z
 startTime: Wed Nov 23 2022 12:17:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
