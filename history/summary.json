@@ -70,7 +70,7 @@
     "slug": "beacon-rpc",
     "status": "up",
     "uptime": "98.81%",
-    "uptimeDay": "69.74%",
+    "uptimeDay": "70.19%",
     "uptimeWeek": "93.94%",
     "uptimeMonth": "98.05%",
     "uptimeYear": "98.81%",
@@ -187,15 +187,15 @@
     "url": "https://beacon.gnosischain.com/",
     "icon": "https://icons.duckduckgo.com/ip3/beacon.gnosischain.com.ico",
     "slug": "beacon-explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "65.43%",
+    "uptimeDay": "65.41%",
     "uptimeWeek": "91.93%",
     "uptimeMonth": "97.97%",
     "uptimeYear": "99.48%",
     "time": 478,
-    "timeDay": 341,
-    "timeWeek": 368,
+    "timeDay": 343,
+    "timeWeek": 369,
     "timeMonth": 418,
     "timeYear": 478,
     "dailyMinutesDown": {
@@ -213,7 +213,7 @@
       "2023-02-19": 25,
       "2022-12-06": 238,
       "2022-12-05": 252,
-      "2022-12-04": 47
+      "2022-12-04": 40
     }
   },
   {
