@@ -130,18 +130,19 @@
     "url": "https://blockscout.com/xdai/mainnet",
     "icon": "https://icons.duckduckgo.com/ip3/blockscout.com.ico",
     "slug": "blockscout-explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "97.98%",
     "uptimeYear": "99.58%",
-    "time": 3250,
-    "timeDay": 349,
-    "timeWeek": 3968,
-    "timeMonth": 5677,
-    "timeYear": 3250,
+    "time": 3245,
+    "timeDay": 713,
+    "timeWeek": 3727,
+    "timeMonth": 5648,
+    "timeYear": 3245,
     "dailyMinutesDown": {
+      "2023-07-04": 0,
       "2023-06-30": 13,
       "2023-06-28": 6,
       "2023-06-26": 27,
@@ -178,8 +179,7 @@
       "2023-04-17": 47,
       "2023-03-31": 9,
       "2023-03-02": 7,
-      "2023-01-31": 6,
-      "2023-01-30": 12
+      "2023-01-31": 6
     }
   },
   {
@@ -187,17 +187,17 @@
     "url": "https://beacon.gnosischain.com/",
     "icon": "https://icons.duckduckgo.com/ip3/beacon.gnosischain.com.ico",
     "slug": "beacon-explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "55.84%",
-    "uptimeWeek": "89.49%",
+    "uptimeDay": "57.99%",
+    "uptimeWeek": "89.48%",
     "uptimeMonth": "97.41%",
     "uptimeYear": "99.44%",
-    "time": 477,
+    "time": 476,
     "timeDay": 358,
-    "timeWeek": 374,
-    "timeMonth": 419,
-    "timeYear": 477,
+    "timeWeek": 372,
+    "timeMonth": 417,
+    "timeYear": 476,
     "dailyMinutesDown": {
       "2023-07-04": 245,
       "2023-07-03": 500,
@@ -213,7 +213,7 @@
       "2023-02-20": 56,
       "2023-02-19": 25,
       "2022-12-06": 238,
-      "2022-12-05": 188
+      "2022-12-05": 181
     }
   },
   {
