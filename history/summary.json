@@ -187,24 +187,23 @@
     "url": "https://beacon.gnosischain.com/",
     "icon": "https://icons.duckduckgo.com/ip3/beacon.gnosischain.com.ico",
     "slug": "beacon-explorer",
-    "status": "up",
-    "uptime": "99.13%",
-    "uptimeDay": "21.91%",
+    "status": "down",
+    "uptime": "99.14%",
+    "uptimeDay": "22.25%",
     "uptimeWeek": "72.27%",
-    "uptimeMonth": "93.60%",
-    "uptimeYear": "99.13%",
+    "uptimeMonth": "93.62%",
+    "uptimeYear": "99.14%",
     "time": 460,
-    "timeDay": 416,
-    "timeWeek": 379,
-    "timeMonth": 403,
+    "timeDay": 403,
+    "timeWeek": 378,
+    "timeMonth": 402,
     "timeYear": 460,
     "dailyMinutesDown": {
       "2023-07-06": 652,
       "2023-07-05": 770,
       "2023-07-04": 576,
       "2023-07-03": 500,
-      "2023-07-02": 302,
-      "2023-06-28": 7
+      "2023-07-02": 302
     }
   },
   {
