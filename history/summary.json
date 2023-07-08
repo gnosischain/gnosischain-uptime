@@ -137,12 +137,12 @@
     "uptime": "99.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
-    "uptimeMonth": "98.20%",
+    "uptimeMonth": "98.22%",
     "uptimeYear": "99.58%",
     "time": 3215,
     "timeDay": 1219,
     "timeWeek": 907,
-    "timeMonth": 5491,
+    "timeMonth": 5562,
     "timeYear": 3215,
     "dailyMinutesDown": {
       "2023-07-04": 27,
@@ -329,11 +329,11 @@
     "url": "https://checkpoint.gnosischain.com/",
     "icon": "https://icons.duckduckgo.com/ip3/checkpoint.gnosischain.com.ico",
     "slug": "beacon-checkpoint-sync",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.99%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 357,
     "timeDay": 552,
@@ -341,6 +341,7 @@
     "timeMonth": 420,
     "timeYear": 357,
     "dailyMinutesDown": {
+      "2023-07-08": 0,
       "2023-06-21": 7
     }
   }
