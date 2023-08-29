@@ -1,7 +1,7 @@
 url: https://rpc-gbc.gnosischain.com/eth/v1/beacon/headers
-status: down
-code: 503
-responseTime: 202
-lastUpdated: 2023-08-29T16:10:44.705Z
+status: up
+code: 200
+responseTime: 192
+lastUpdated: 2023-08-29T16:28:42.714Z
 startTime: 2022-11-23T12:17:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
