@@ -1,7 +1,7 @@
 url: https://omni.gnosischain.com/bridge
-status: up
-code: 200
-responseTime: 467
-lastUpdated: 2023-09-19T23:11:14.608Z
+status: down
+code: 503
+responseTime: 1330
+lastUpdated: 2023-09-20T15:22:39.047Z
 startTime: 2022-11-23T12:17:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
