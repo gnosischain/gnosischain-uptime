@@ -96,7 +96,7 @@
     "slug": "beacon-rpc",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "59.61%",
+    "uptimeDay": "60.45%",
     "uptimeWeek": "87.52%",
     "uptimeMonth": "94.45%",
     "uptimeYear": "99.41%",
@@ -285,7 +285,7 @@
     "timeMonth": 286,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2023-10-02": 66,
+      "2023-10-02": 78,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
       "2023-09-29": 1440,
