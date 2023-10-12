@@ -4,16 +4,16 @@
     "url": "https://rpc.gnosischain.com/",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.gnosischain.com.ico",
     "slug": "rpc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "94.94%",
+    "uptimeDay": "95.31%",
     "uptimeWeek": "95.70%",
     "uptimeMonth": "97.75%",
     "uptimeYear": "99.61%",
     "time": 371,
-    "timeDay": 480,
-    "timeWeek": 449,
-    "timeMonth": 468,
+    "timeDay": 474,
+    "timeWeek": 447,
+    "timeMonth": 467,
     "timeYear": 371,
     "dailyMinutesDown": {
       "2023-10-12": 67,
@@ -66,8 +66,7 @@
       "2023-05-18": 27,
       "2023-05-16": 12,
       "2023-04-20": 7,
-      "2023-04-11": 40,
-      "2023-04-10": 7
+      "2023-04-11": 40
     }
   },
   {
@@ -75,9 +74,9 @@
     "url": "https://rpc.gnosis.gateway.fm/",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.gnosis.gateway.fm.ico",
     "slug": "gateway-fm-public-rpc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.55%",
+    "uptimeDay": "99.91%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.94%",
@@ -87,6 +86,7 @@
     "timeMonth": 533,
     "timeYear": 585,
     "dailyMinutesDown": {
+      "2023-10-12": 0,
       "2023-10-11": 7,
       "2023-10-10": 28,
       "2023-10-09": 7,
@@ -286,7 +286,7 @@
     "timeMonth": 302,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2023-10-12": 1370,
+      "2023-10-12": 1377,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
