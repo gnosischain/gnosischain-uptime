@@ -92,9 +92,9 @@
     "slug": "beacon-rpc",
     "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "46.31%",
-    "uptimeWeek": "91.10%",
-    "uptimeMonth": "91.54%",
+    "uptimeDay": "45.52%",
+    "uptimeWeek": "90.99%",
+    "uptimeMonth": "91.52%",
     "uptimeYear": "99.19%",
     "time": 546,
     "timeDay": 9871,
@@ -102,7 +102,7 @@
     "timeMonth": 661,
     "timeYear": 546,
     "dailyMinutesDown": {
-      "2023-10-15": 773,
+      "2023-10-15": 785,
       "2023-10-13": 6,
       "2023-10-12": 19,
       "2023-10-11": 6,
@@ -217,15 +217,15 @@
     "url": "https://beacon.gnosischain.com/",
     "icon": "https://icons.duckduckgo.com/ip3/beacon.gnosischain.com.ico",
     "slug": "beacon-explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "58.82%",
-    "uptimeWeek": "94.12%",
+    "uptimeDay": "58.80%",
+    "uptimeWeek": "94.11%",
     "uptimeMonth": "98.63%",
     "uptimeYear": "99.24%",
     "time": 466,
-    "timeDay": 636,
-    "timeWeek": 579,
+    "timeDay": 618,
+    "timeWeek": 578,
     "timeMonth": 569,
     "timeYear": 466,
     "dailyMinutesDown": {
@@ -237,7 +237,7 @@
       "2023-07-05": 770,
       "2023-07-04": 576,
       "2023-07-03": 500,
-      "2023-07-02": 195
+      "2023-07-02": 181
     }
   },
   {
@@ -247,9 +247,9 @@
     "slug": "ethstats",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "74.37%",
-    "uptimeWeek": "96.34%",
-    "uptimeMonth": "99.07%",
+    "uptimeDay": "73.58%",
+    "uptimeWeek": "96.23%",
+    "uptimeMonth": "99.05%",
     "uptimeYear": "99.91%",
     "time": 342,
     "timeDay": 637,
@@ -257,7 +257,7 @@
     "timeMonth": 503,
     "timeYear": 342,
     "dailyMinutesDown": {
-      "2023-10-15": 370,
+      "2023-10-15": 382,
       "2023-10-03": 16,
       "2023-09-26": 21,
       "2022-12-08": 16
@@ -280,7 +280,7 @@
     "timeMonth": 289,
     "timeYear": 519,
     "dailyMinutesDown": {
-      "2023-10-15": 886,
+      "2023-10-15": 897,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
