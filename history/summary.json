@@ -86,17 +86,17 @@
     "url": "https://rpc-gbc.gnosischain.com/eth/v1/beacon/headers",
     "icon": "https://icons.duckduckgo.com/ip3/rpc-gbc.gnosischain.com.ico",
     "slug": "beacon-rpc",
-    "status": "up",
-    "uptime": "99.14%",
-    "uptimeDay": "92.32%",
-    "uptimeWeek": "88.71%",
+    "status": "down",
+    "uptime": "99.15%",
+    "uptimeDay": "92.30%",
+    "uptimeWeek": "88.70%",
     "uptimeMonth": "90.94%",
-    "uptimeYear": "99.14%",
-    "time": 567,
-    "timeDay": 1541,
-    "timeWeek": 1756,
-    "timeMonth": 768,
-    "timeYear": 567,
+    "uptimeYear": "99.15%",
+    "time": 587,
+    "timeDay": 2501,
+    "timeWeek": 2186,
+    "timeMonth": 844,
+    "timeYear": 587,
     "dailyMinutesDown": {
       "2023-10-17": 51,
       "2023-10-16": 60,
@@ -127,7 +127,7 @@
       "2023-09-18": 35,
       "2023-09-17": 32,
       "2023-09-16": 36,
-      "2023-09-15": 28
+      "2023-09-15": 14
     }
   },
   {
@@ -280,7 +280,7 @@
     "timeMonth": 289,
     "timeYear": 518,
     "dailyMinutesDown": {
-      "2023-10-17": 881,
+      "2023-10-17": 888,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
