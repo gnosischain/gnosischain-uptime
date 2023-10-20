@@ -4,17 +4,17 @@
     "url": "https://rpc.gnosischain.com/",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.gnosischain.com.ico",
     "slug": "rpc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "98.16%",
+    "uptimeDay": "98.15%",
     "uptimeWeek": "91.60%",
     "uptimeMonth": "95.83%",
     "uptimeYear": "99.56%",
-    "time": 382,
-    "timeDay": 496,
-    "timeWeek": 454,
-    "timeMonth": 468,
-    "timeYear": 382,
+    "time": 398,
+    "timeDay": 1741,
+    "timeWeek": 589,
+    "timeMonth": 524,
+    "timeYear": 398,
     "dailyMinutesDown": {
       "2023-10-20": 14,
       "2023-10-19": 26,
@@ -50,8 +50,7 @@
       "2023-08-22": 6,
       "2023-08-20": 7,
       "2023-08-16": 7,
-      "2023-08-08": 11,
-      "2023-08-07": 7
+      "2023-08-08": 11
     }
   },
   {
@@ -245,8 +244,8 @@
     "status": "up",
     "uptime": "99.01%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "53.62%",
-    "uptimeMonth": "89.24%",
+    "uptimeWeek": "53.49%",
+    "uptimeMonth": "89.21%",
     "uptimeYear": "99.01%",
     "time": 348,
     "timeDay": 668,
@@ -254,7 +253,7 @@
     "timeMonth": 534,
     "timeYear": 348,
     "dailyMinutesDown": {
-      "2023-10-20": 1277,
+      "2023-10-20": 1291,
       "2023-10-19": 1440,
       "2023-10-18": 1404,
       "2023-10-16": 21,
@@ -281,7 +280,7 @@
     "timeMonth": 296,
     "timeYear": 516,
     "dailyMinutesDown": {
-      "2023-10-20": 1277,
+      "2023-10-20": 1291,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
       "2023-10-17": 1440,
