@@ -4,9 +4,9 @@
     "url": "https://rpc.gnosischain.com/",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.gnosischain.com.ico",
     "slug": "rpc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "97.82%",
+    "uptimeDay": "97.80%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.61%",
@@ -50,8 +50,7 @@
       "2023-09-11": 6,
       "2023-09-05": 6,
       "2023-09-04": 19,
-      "2023-09-02": 24,
-      "2023-08-29": 7
+      "2023-09-02": 24
     }
   },
   {
@@ -266,14 +265,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "69.66%",
+    "uptimeYear": "69.65%",
     "time": 384,
     "timeDay": 666,
     "timeWeek": 515,
     "timeMonth": 496,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2024-02-05": 514,
+      "2024-02-05": 541,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
@@ -407,7 +406,7 @@
     "timeMonth": 265,
     "timeYear": 496,
     "dailyMinutesDown": {
-      "2024-02-05": 514,
+      "2024-02-05": 541,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
