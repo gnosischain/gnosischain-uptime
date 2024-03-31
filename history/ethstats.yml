@@ -1,7 +1,7 @@
 url: https://ethstats.gnosischain.com/
-status: up
-code: 200
-responseTime: 483
-lastUpdated: 2024-03-30T23:11:21.434Z
+status: down
+code: 403
+responseTime: 511
+lastUpdated: 2024-03-31T21:50:39.798Z
 startTime: 2022-11-23T12:17:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
