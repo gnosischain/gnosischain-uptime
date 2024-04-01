@@ -1,7 +1,7 @@
 url: https://checkpoint.gnosischain.com/
-status: down
-code: 403
-responseTime: 496
-lastUpdated: 2024-04-01T16:46:41.266Z
+status: up
+code: 200
+responseTime: 409
+lastUpdated: 2024-04-01T16:59:52.003Z
 startTime: 2022-11-23T12:17:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
