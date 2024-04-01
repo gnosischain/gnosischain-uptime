@@ -1,7 +1,7 @@
 url: https://bridge-explorer.gnosischain.com/
-status: down
-code: 403
-responseTime: 306
-lastUpdated: 2024-04-01T02:37:29.439Z
+status: up
+code: 200
+responseTime: 481
+lastUpdated: 2024-04-01T02:44:32.107Z
 startTime: 2023-06-01T08:30:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
