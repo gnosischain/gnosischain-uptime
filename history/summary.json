@@ -221,18 +221,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/beacon.gnosischain.com.ico",
     "slug": "beacon-explorer",
     "status": "down",
-    "uptime": "90.65%",
+    "uptime": "90.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.95%",
+    "uptimeYear": "83.92%",
     "time": 513,
     "timeDay": 364,
     "timeWeek": 535,
     "timeMonth": 489,
     "timeYear": 538,
     "dailyMinutesDown": {
-      "2024-08-31": 1410,
+      "2024-09-01": 116,
+      "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
@@ -496,7 +497,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gnosisfaucet.com.ico",
     "slug": "faucet",
     "status": "down",
-    "uptime": "37.08%",
+    "uptime": "37.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -507,7 +508,8 @@
     "timeMonth": 0,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2024-08-31": 1410,
+      "2024-09-01": 116,
+      "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
@@ -870,8 +872,7 @@
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
-      "2023-09-03": 1440,
-      "2023-09-02": 1440
+      "2023-09-03": 1440
     }
   },
   {
