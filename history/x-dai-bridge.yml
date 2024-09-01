@@ -1,7 +1,7 @@
 url: https://bridge.gnosischain.com/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-01T17:00:55.553Z
+status: up
+code: 200
+responseTime: 111
+lastUpdated: 2024-09-01T17:11:16.315Z
 startTime: 2022-11-23T12:17:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
