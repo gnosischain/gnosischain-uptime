@@ -1,7 +1,7 @@
 url: https://rpc.gnosis.gateway.fm/
-status: down
-code: 503
-responseTime: 489
-lastUpdated: 2024-11-16T17:34:22.051Z
+status: up
+code: 200
+responseTime: 504
+lastUpdated: 2024-11-16T17:47:34.559Z
 startTime: 2023-06-01T08:29:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
