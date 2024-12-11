@@ -31,17 +31,15 @@ sites:
   - name: "Blockscout Explorer"
     url: https://blockscout.com/xdai/mainnet
   - name: "Beacon Explorer"
-    url: https://beacon.gnosischain.com/
+    url: https://gnosischa.in/
   - name: "Ethstats"
     url: https://ethstats.gnosischain.com/
   - name: "Faucet"
-    url: https://gnosisfaucet.com/
+    url: https://faucet.gnosischain.com/
   - name: "Bridge Explorer"
     url: https://bridge-explorer.gnosischain.com/
   - name: "xDaiBridge"
     url: https://bridge.gnosischain.com/
-  - name: "OmniBridge"
-    url: https://omni.gnosischain.com/bridge
   - name: "Beacon Checkpoint Sync"
     url: https://checkpoint.gnosischain.com/
 status-website:
