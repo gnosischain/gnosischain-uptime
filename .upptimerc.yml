@@ -28,8 +28,12 @@ sites:
     url: https://rpc-gbc.gnosischain.com/eth/v1/beacon/headers
   - name: "Gnosisscan"
     url: https://gnosisscan.io/
+  - name: "Faucet"
+	  url: https://faucet.gnosischain.com/
   - name: "Blockscout Explorer"
     url: https://blockscout.com/xdai/mainnet
+  - name: "Beacon Explorer"
+    url: https://gnosischa.in/
   - name: "Ethstats"
     url: https://ethstats.gnosischain.com/
   - name: "Bridge Explorer"
