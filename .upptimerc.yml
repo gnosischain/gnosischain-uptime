@@ -30,12 +30,8 @@ sites:
     url: https://gnosisscan.io/
   - name: "Blockscout Explorer"
     url: https://blockscout.com/xdai/mainnet
-  - name: "Beacon Explorer"
-    url: https://gnosischa.in/
   - name: "Ethstats"
     url: https://ethstats.gnosischain.com/
-  - name: "Faucet"
-    url: https://faucet.gnosischain.com/
   - name: "Bridge Explorer"
     url: https://bridge-explorer.gnosischain.com/
   - name: "xDaiBridge"
