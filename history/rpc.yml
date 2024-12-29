@@ -1,7 +1,7 @@
 url: https://rpc.gnosischain.com/
-status: down
-code: 502
-responseTime: 323
-lastUpdated: 2024-12-29T08:42:51.895Z
+status: up
+code: 200
+responseTime: 565
+lastUpdated: 2024-12-29T08:49:43.749Z
 startTime: 2022-11-23T12:17:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
