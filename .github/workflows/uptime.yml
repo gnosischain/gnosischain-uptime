@@ -21,6 +21,10 @@ on:
   repository_dispatch:
     types: [uptime]
   workflow_dispatch:
+
+permissions:
+  contents: write # This is REQUIRED to allow pushing!
+
 jobs:
   release:
     name: Check status
