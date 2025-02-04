@@ -23,7 +23,8 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write # This is REQUIRED to allow pushing!
+  contents: write
+  actions: read
 
 jobs:
   release:
