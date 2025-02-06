@@ -33,7 +33,7 @@ sites:
   - name: "Faucet"
     url: https://faucet.gnosischain.com/
   - name: "Beacon Explorer"
-    url: https://gnosischa.in/
+    url: https://gnosischa.in/api/healthz
   - name: "Ethstats"
     url: https://ethstats.gnosischain.com/
   - name: "Bridge Explorer"
