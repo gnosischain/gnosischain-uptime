@@ -34,7 +34,7 @@ sites:
     url: https://gnosischa.in/api/healthz
   - name: "Faucet"
     url: https://api.faucet.gnosischain.com/api/v1/status
-    headers: ["Accept: application/json"]
+    headers: ["User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64)"]
   - name: "Ethstats"
     url: https://ethstats.gnosischain.com/
   - name: "Bridge Explorer"
