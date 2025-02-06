@@ -21,9 +21,6 @@ on:
   repository_dispatch:
     types: [graphs]
   workflow_dispatch:
-permissions:
-  contents: write
-  actions: read
 jobs:
   release:
     name: Generate graphs
@@ -33,10 +30,10 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: ${{ github.head_ref }}
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT || github.token }}
       - name: Generate graphs
         uses: upptime/uptime-monitor@v1.38.0
         with:
           command: "graphs"
         env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT || github.token }}
