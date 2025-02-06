@@ -31,7 +31,7 @@ sites:
   - name: "Blockscout Explorer"
     url: https://blockscout.com/xdai/mainnet
   - name: "Faucet"
-    url: https://faucet.gnosischain.com/
+    url: https://faucet.gnosischain.com/static/css/main.8aa13e03.css
   - name: "Beacon Explorer"
     url: https://gnosischa.in/api/healthz
   - name: "Ethstats"
