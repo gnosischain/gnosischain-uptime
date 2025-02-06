@@ -21,9 +21,6 @@ on:
   repository_dispatch:
     types: [response_time]
   workflow_dispatch:
-permissions:
-  contents: write
-  actions: read
 jobs:
   release:
     name: Check status
@@ -33,10 +30,11 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: ${{ github.head_ref }}
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT || github.token }}
       - name: Update response time
         uses: upptime/uptime-monitor@v1.38.0
         with:
           command: "response-time"
         env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT || github.token }}
+          SECRETS_CONTEXT: ${{ toJson(secrets) }}
