@@ -40,11 +40,11 @@ jobs:
         with:
           command: "site"
         env:
-          GH_PAT: ${{ secrets.GH_PAT || github.token }}
+          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
       - uses: peaceiris/actions-gh-pages@v4
         name: GitHub Pages Deploy
         with:
-          github_token: ${{ secrets.GH_PAT || github.token }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: "site/status-page/__sapper__/export/"
           force_orphan: "false"
           user_name: "Upptime Bot"
