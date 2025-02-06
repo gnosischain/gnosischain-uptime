@@ -32,6 +32,8 @@ sites:
     url: https://blockscout.com/xdai/mainnet
   - name: "Beacon Explorer"
     url: https://gnosischa.in/api/healthz
+  - name: "Faucet"
+    url: https://api.faucet.gnosischain.com/api/v1/status
   - name: "Ethstats"
     url: https://ethstats.gnosischain.com/
   - name: "Bridge Explorer"
