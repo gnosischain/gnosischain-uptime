@@ -31,7 +31,9 @@ sites:
   - name: "Blockscout Explorer"
     url: https://blockscout.com/xdai/mainnet
   - name: "Faucet"
-    url: https://faucet.gnosischain.com/
+    method: GET
+    url:  https://faucet.gnosischain.com/
+    headers: ["User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"]
   - name: "Beacon Explorer"
     url: https://gnosischa.in/api/healthz
   - name: "Ethstats"
